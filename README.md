@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about HTML, CSS, JavaScript, ReactJS, NextJS
 - 📫 How to reach me: [@ShaikMAbdullah](https://twitter.com/ShaikMAbdullah)
 - 😄 Pronouns: Mr
-- ⚡ Hobbies: I like to play Table tennis, Recently started working on Open source, Watching Educational videos, Engaging in Tech communities
+- ⚡ Hobbies: Play Table tennis, Started working on Open source, Watching Educational videos, Engaging in Tech communities
