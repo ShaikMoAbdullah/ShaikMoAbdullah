@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on **ReactJS**
-- 🌱 I’m currently learning *Redux* and *TypeScript*
+- 🌱 I’m currently learning **Redux** and **TypeScript**
 - 👯 I’m looking to collaborate on **Web development** and anything which is solving a problem which could impact or reduce efforts of the living beings in this universe
 - 🤔 I’m looking to find great teams to discuss regularly and learn and solve problems
 - 💬 Ask me about HTML, CSS, JavaScript, ReactJS, NextJS
