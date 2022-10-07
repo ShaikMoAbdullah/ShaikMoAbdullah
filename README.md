@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **ShaikMohammadAbdullah/ShaikMohammadAbdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **ReactJS**
-- 🌱 I’m currently learning **Redux** and **TypeScript**
-- 👯 I’m looking to collaborate on **Web development** and anything which is solving a problem which could impact or reduce efforts of the living beings in this universe
-- 🤔 I’m looking to find great teams to discuss regularly and learn and solve problems
-- 💬 Ask me about HTML, CSS, JavaScript, ReactJS, NextJS
-- 📫 How to reach me: [@ShaikMAbdullah](https://twitter.com/ShaikMAbdullah)
+## About Me
+- 🔭 Software Engineer working in **ReactJS**
+- ⌘ Interested in Open source
+- 💬 Ask me about HTML, CSS, JavaScript, ReactJS
+- 📫 Reach me [@ShaikMoAbdullah](https://twitter.com/ShaikMoAbdullah)
 - 😄 Pronouns: Mr
-- ⚡ Hobbies: Play Table tennis, Started working on Open source, Watching Educational videos, Engaging in Tech communities
+- ⚡ Hobbies: Table tennis, Open source, Tech communities
