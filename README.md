@@ -1,24 +1,17 @@
-# Hi there 👋
+## Hi there 👋 My name is Shaik Mohammad Abdullah and welcome to my GitHub profile
 
-<!--
-**ShaikMohammadAbdullah/ShaikMohammadAbdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I work as a Software Engineer at ZopSmart    
+🔭 In my spare time I'm working on open source projects   
+🌱 I’m currently working on improving my frontend skills with Redux, TypeScript and Testing  
+💬 I would love to talk about open source
+👨‍💻 My portfolio is available at https://flowcv.me/shaik-mohammad-abdullah   
+📫 How to reach me: smabdullahblr@gmail.com and you can read me on Twitter [@ShaikMoAbdullah](https://twitter.com/ShaikMoAbdullah)
+⚡ Hobbies: Table tennis, Open source, Tech communities
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## About Me
-- 🔭 Software Engineer working in **ReactJS**
-- ⌘ Interested in Open source
-- 💬 Ask me about HTML, CSS, JavaScript, ReactJS
-- 📫 Reach me [@ShaikMoAbdullah](https://twitter.com/ShaikMoAbdullah)
-- 😄 Pronouns: Mr
-- ⚡ Hobbies: Table tennis, Open source, Tech communities
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>  
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
+</p>
