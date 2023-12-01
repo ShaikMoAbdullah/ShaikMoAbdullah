@@ -1,9 +1,7 @@
 ## Hi there 👋 My name is Shaik Mohammad Abdullah and welcome to my GitHub profile
 
 🎓 I work as a Software Engineer at ZopSmart    
-🔭 In my spare time I'm working on open source projects   
-🌱 I’m currently working on improving my frontend skills with Redux, TypeScript and Testing  
-💬 I would love to talk about open source
+🔭 In my spare time I'm working on open-source projects, watching YouTube videos   
 👨‍💻 My portfolio is available at https://flowcv.me/shaik-mohammad-abdullah   
 📫 How to reach me: smabdullahblr@gmail.com and you can read me on Twitter [@ShaikMoAbdullah](https://twitter.com/ShaikMoAbdullah)<br>
 ⚡ Hobbies: Table tennis, Open source, Tech communities
