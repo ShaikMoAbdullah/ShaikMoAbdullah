@@ -3,7 +3,7 @@
 🎓 I work as a Software Engineer at ZopSmart    
 🔭 In my spare time I'm working on open-source projects, watching YouTube videos, and spending time with family
 👨‍💻 My portfolio is available at https://flowcv.me/shaik-mohammad-abdullah   
-📫 How to reach me: smabdullahblr@gmail.com and you can read me on Twitter [@ShaikMoAbdullah](https://twitter.com/ShaikMoAbdullah)<br>
+📫 How to reach me: smabdullahblr@gmail.com and you can reach me on Twitter [@ShaikMoAbdullah](https://twitter.com/ShaikMoAbdullah)<br>
 ⚡ Hobbies: Table tennis, Open source, Tech communities
 
 <h3 align="left">Languages and Tools:</h3>
