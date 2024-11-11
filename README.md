@@ -1,9 +1,9 @@
 ## Hi there 👋 My name is Shaik Mohammad Abdullah and welcome to my GitHub profile
 
-🎓 I work as a Software Engineer at [Karya](https://github.com/karya-inc)<br>
-🔭 In my spare time Playing Badminton, Building personal products or working open-source projects, and traveling<br>
-👨‍💻 My portfolio is available at https://flowcv.me/shaik-mohammad-abdullah<br>
-📫 How to reach me: smabdullahblr@gmail.com, [X](https://twitter.com/ShaikMoAbdullah), [LinkedIn](https://www.linkedin.com/in/shaikmohammadabdullah/)<br>
+🎓 Engineer @ [Karya](https://github.com/karya-inc)<br>
+🔭 Plays Badminton, Builds personal products, and travels on bike<br>
+👨‍💻 [Portfolio](https://flowcv.me/shaikmoabdullah)<br>
+📫 Reach me at [X](https://twitter.com/ShaikMoAbdullah), [LinkedIn](https://www.linkedin.com/in/shaikmohammadabdullah/)<br> 
 ⚡ Hobbies: Badminton, Table tennis, Entrepreneurship
 
 <h3 align="left">Languages and Tools:</h3>
