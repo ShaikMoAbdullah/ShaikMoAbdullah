@@ -1,15 +1,64 @@
-## Hi there 👋 My name is Shaik Mohammad Abdullah and welcome to my GitHub profile
+# Hi, I'm Shaik Mohammad Abdullah 👋
 
-🎓 Engineer @ [Karya](https://github.com/karya-inc)<br>
-🔭 Plays Badminton, Builds personal products, and travels on bike<br>
-👨‍💻 [Portfolio](https://flowcv.me/shaikmoabdullah)<br>
-📫 Reach me at [X](https://twitter.com/ShaikMoAbdullah), [LinkedIn](https://www.linkedin.com/in/shaikmohammadabdullah/)<br> 
-⚡ Hobbies: Badminton, Table tennis, Entrepreneurship
+**Senior Software Engineer · Full Stack**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>  
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
-</p>
+4+ years building scalable web platforms, SaaS products, and enterprise integrations. Strong in **React**, **TypeScript**, **Node.js**, **GraphQL**—and turning ideas into measurable impact.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript, TypeScript, Python, SQL  
+
+**Frontend:** React, Next.js, Tailwind CSS  
+
+**Backend & APIs:** Node.js, GraphQL, Hasura, REST  
+
+**Databases:** PostgreSQL, MySQL  
+
+**Other:** RBAC/ReBAC (Permit.io), NLQ & LLM Integration, Jest, React Testing Library  
+
+---
+
+## 💼 Experience
+
+- **Karya** — Senior Software Engineer *(Sep 2024 – Present)*  
+  RBAC/ReBAC, NLQ chat interface, modular task components, WhatsApp Business API integration
+
+- **ZopSmart** — Software Engineer *(Jan 2022 – Aug 2024)*  
+  Kroger e-commerce (3x CTR, 12% sales growth), EazyUpdates, Confluence, Smrize
+
+- **MountBlue Technologies** — Software Engineer *(Aug 2021 – Jan 2022)*  
+
+---
+
+## 📊 Impact Highlights
+
+| Metric | Result |
+|--------|--------|
+| Click-through rates | **3x** |
+| Sales growth | **12%** |
+| Traffic increase | **20%** |
+| Avg. daily engagement | **24 min** |
+
+---
+
+## 🎓 Certifications
+
+- Microsoft Azure AI Fundamentals  
+- Google Analytics Individual Qualification  
+- University of Helsinki — Elements of AI  
+- DataCamp — Intermediate Python, SQL  
+
+---
+
+## 🔗 Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-shaikmoabdullah.com-amber?style=flat-square)](https://shaikmoabdullah.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shaikmoabdullah-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/shaikmoabdullah)  
+[![X](https://img.shields.io/badge/X-@shaikmoabdullah-000?style=flat-square&logo=x)](https://x.com/shaikmoabdullah)  
+[![Email](https://img.shields.io/badge/Email-smabdullahblr%40gmail.com-amber?style=flat-square)](mailto:smabdullahblr@gmail.com)
+
+---
+
+*Open to opportunities and conversations*
