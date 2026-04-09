@@ -1,4 +1,4 @@
-# Hi, I'm Shaik Mohammad Abdullah 👋
+# Hi, I'm Abdullah 👋
 
 **Senior Software Engineer · Full Stack**
 
