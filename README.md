@@ -1,8 +1,8 @@
 # Hi, I'm Abdullah 👋
 
-**Senior Software Engineer · Full Stack**
+**Senior Product Engineer**
 
-4+ years building scalable web platforms, SaaS products, and enterprise integrations. Strong in **React**, **TypeScript**, **Node.js**, **GraphQL**—and turning ideas into measurable impact.
+Product-minded engineer who owns outcomes end-to-end from user discovery and UX to architecture, launch, and growth. 5+ years shipping SaaS products and platforms (and founding my own), turning real user problems into measurable business impact.
 
 ---
 
